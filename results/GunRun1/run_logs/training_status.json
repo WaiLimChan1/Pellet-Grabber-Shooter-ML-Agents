@@ -1,0 +1,47 @@
+{
+    "Gun": {
+        "checkpoints": [
+            {
+                "steps": 222777,
+                "file_path": "results\\GunRun1\\Gun\\Gun-222777.onnx",
+                "reward": 130.0,
+                "creation_time": 1717701468.3485503,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-222777.pt"
+                ]
+            },
+            {
+                "steps": 499986,
+                "file_path": "results\\GunRun1\\Gun\\Gun-499986.onnx",
+                "reward": 102.22222222222223,
+                "creation_time": 1717701834.0036654,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-499986.pt"
+                ]
+            },
+            {
+                "steps": 548675,
+                "file_path": "results\\GunRun1\\Gun\\Gun-548675.onnx",
+                "reward": 166.66666666666666,
+                "creation_time": 1717701909.2862313,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-548675.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 548675,
+            "file_path": "results\\GunRun1\\Gun.onnx",
+            "reward": 166.66666666666666,
+            "creation_time": 1717701909.2862313,
+            "auxillary_file_paths": [
+                "results\\GunRun1\\Gun\\Gun-548675.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}

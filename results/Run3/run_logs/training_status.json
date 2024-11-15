@@ -1,0 +1,65 @@
+{
+    "Survivor": {
+        "checkpoints": [
+            {
+                "steps": 1963770,
+                "file_path": "results\\Run3\\Survivor\\Survivor-1963770.onnx",
+                "reward": 305.2825186593192,
+                "creation_time": 1717696470.5870922,
+                "auxillary_file_paths": [
+                    "results\\Run3\\Survivor\\Survivor-1963770.pt"
+                ]
+            },
+            {
+                "steps": 1999986,
+                "file_path": "results\\Run3\\Survivor\\Survivor-1999986.onnx",
+                "reward": 336.78472900390625,
+                "creation_time": 1717697144.899058,
+                "auxillary_file_paths": [
+                    "results\\Run3\\Survivor\\Survivor-1999986.pt"
+                ]
+            },
+            {
+                "steps": 2499938,
+                "file_path": "results\\Run3\\Survivor\\Survivor-2499938.onnx",
+                "reward": 284.47312927246094,
+                "creation_time": 1717697836.67384,
+                "auxillary_file_paths": [
+                    "results\\Run3\\Survivor\\Survivor-2499938.pt"
+                ]
+            },
+            {
+                "steps": 2999951,
+                "file_path": "results\\Run3\\Survivor\\Survivor-2999951.onnx",
+                "reward": 296.10978044782365,
+                "creation_time": 1717698298.9351306,
+                "auxillary_file_paths": [
+                    "results\\Run3\\Survivor\\Survivor-2999951.pt"
+                ]
+            },
+            {
+                "steps": 3073669,
+                "file_path": "results\\Run3\\Survivor\\Survivor-3073669.onnx",
+                "reward": 241.4534767552426,
+                "creation_time": 1717698453.243635,
+                "auxillary_file_paths": [
+                    "results\\Run3\\Survivor\\Survivor-3073669.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3073669,
+            "file_path": "results\\Run3\\Survivor.onnx",
+            "reward": 241.4534767552426,
+            "creation_time": 1717698453.243635,
+            "auxillary_file_paths": [
+                "results\\Run3\\Survivor\\Survivor-3073669.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}

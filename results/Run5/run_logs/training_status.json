@@ -1,0 +1,38 @@
+{
+    "Survivor": {
+        "checkpoints": [
+            {
+                "steps": 75767,
+                "file_path": "results\\Run5\\Survivor\\Survivor-75767.onnx",
+                "reward": -85.0,
+                "creation_time": 1717705311.2759886,
+                "auxillary_file_paths": [
+                    "results\\Run5\\Survivor\\Survivor-75767.pt"
+                ]
+            },
+            {
+                "steps": 134598,
+                "file_path": "results\\Run5\\Survivor\\Survivor-134598.onnx",
+                "reward": -19.545454545454547,
+                "creation_time": 1717705644.7223368,
+                "auxillary_file_paths": [
+                    "results\\Run5\\Survivor\\Survivor-134598.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 134598,
+            "file_path": "results\\Run5\\Survivor.onnx",
+            "reward": -19.545454545454547,
+            "creation_time": 1717705644.7223368,
+            "auxillary_file_paths": [
+                "results\\Run5\\Survivor\\Survivor-134598.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}

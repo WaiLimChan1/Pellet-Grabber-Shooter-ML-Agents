@@ -1,0 +1,29 @@
+{
+    "Survivor": {
+        "checkpoints": [
+            {
+                "steps": 25231,
+                "file_path": "results\\Run4\\Survivor\\Survivor-25231.onnx",
+                "reward": -88.52941176470588,
+                "creation_time": 1717704615.3914378,
+                "auxillary_file_paths": [
+                    "results\\Run4\\Survivor\\Survivor-25231.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25231,
+            "file_path": "results\\Run4\\Survivor.onnx",
+            "reward": -88.52941176470588,
+            "creation_time": 1717704615.3914378,
+            "auxillary_file_paths": [
+                "results\\Run4\\Survivor\\Survivor-25231.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}
